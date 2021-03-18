@@ -1,0 +1,14 @@
+scratch
+.DS_Store
+*~
+/node_modules
+.htaccess
+examples/touchevents.html
+bevy.json
+.idea
+js/deps/builds
+!js/profile-w3c-common.js
+!js/profile-geonovum.js
+!js/profile-w3c.js
+.vscode/*
+!.vscode/tasks.json
